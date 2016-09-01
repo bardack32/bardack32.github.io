@@ -1,12 +1,29 @@
 ﻿.auto-style1 {
-    width: 120px;
+    width: 78px;
 }
+
 #txtNombre {
-    width: 250px;
+    width: 251px;
 }
+
 #txtApellidos {
-    width: 250px;
+    width: 251px;
 }
-#txtDireccion {
-    width: 250px;
+
+#txtCiudad {
+    width: 200px;
+}
+
+.auto-style2 {
+    width: 172px;
+}
+
+footer {
+	width: 63%;
+    height: 100px;
+    background: #65000b;
+    border-top: 1px solid;
+    position: absolute;
+    bottom: 0;
+    color: white;
 }
